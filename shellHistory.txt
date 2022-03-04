@@ -1,0 +1,129 @@
+history
+clear
+pwd
+ls -la
+history | sort | tail -n 10 > output.txt
+grep pwd < output.txt
+grep history < output.txt
+clear
+cd ../
+mkdir mynewfolder
+output.txt
+clear
+cd /CodingAssignment4
+cd CodingAssignment4
+clear
+grep history < output.txt > myNewFile.txt
+exit
+%appdata%
+clear
+history
+clear
+exit
+cd
+pwd
+exit
+cd
+cd ../
+cd
+cd ../
+cd kirbitz
+cd Documents/CodingAssignments
+cd CodingAssignment4
+clear
+history
+clear
+cd
+cd ./
+cd ../
+cd ../
+ls
+exit
+cd
+cd ../
+cd ../
+ls
+cd ../
+ls
+exit
+clear
+history
+history | sort | tail -n 10
+clear
+exit
+clear
+pwd
+clear
+history
+history | grep cd | sort
+history | grep cd | sort > output.txt
+./project
+./project4
+exit
+clear
+cd
+cd ../
+exit
+clear
+history
+history                                    
+clear
+grep ../ < output.txt > test.txt
+pwd
+clear
+cd ../
+history
+exit
+clear
+history
+clear
+history
+history
+cd ../
+history
+clear
+history
+clear
+exit
+clear
+history
+cd
+history
+clear
+exit
+clear
+pwd
+clear
+ls -la
+history | grep history | sort | tail -n 10
+cd
+cd ../
+pwd
+ls 
+cd ../
+ls
+history
+exit
+clear
+ls -la
+pwd
+history
+cd
+exit
+clear
+pwd
+ls -la
+history
+clear
+history | grep history
+clear
+history | grep history | sort | tail -n 10
+clear
+ps -aux
+clear
+mkdir myFolder
+clear
+history > output.txt
+grep history < output.txt
+grep history < output.txt > test.txt
+grep history < output.txt | tail -n 10 > test.txt
